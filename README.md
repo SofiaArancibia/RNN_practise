@@ -1,4 +1,4 @@
-practise
+Recurrent neural networks practise
 ==============================
 
 Playing around with RNN
